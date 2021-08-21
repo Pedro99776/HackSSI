@@ -11,3 +11,16 @@
     font-size: 40px;
     width: fit-content;
 }
+
+.botao1:hover{
+    color: green;
+}
+
+.botao1::before{
+    font-size: 50px;
+}
+
+.botao::after{
+    font-size: 100px;
+}
+
